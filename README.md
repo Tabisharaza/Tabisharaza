@@ -1,5 +1,7 @@
 Hi there, I'm Tabish Ayub Raza 👋
 
+About Me :sunglasses:
+I am a skilled and experienced Full Stack Blockchain Developer with expertise in Test Driven Development, Full-Stack Development, Smart Contracts, and Non-Fungible Tokens (NFTs). I have a strong knowledge of MERN Stack, TypeScript, and Solidity, and experience in DevOps, Linux, Continuous Integration and Continuous Delivery (CI/CD), and AWS. I am a proactive problem solver with excellent communication skills and a commitment to delivering high-quality work.
 
 <!--
 **Tabisharaza/Tabisharaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
