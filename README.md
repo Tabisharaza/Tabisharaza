@@ -1,4 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/saudi_arabia_private/tabisharaza.svg)](https://user-badge.committers.top/saudi_arabia_private/tabisharaza)
+[![committers.top badge](https://user-badge.committers.top/saudi_arabia_private/Tabisharaza.svg)](https://user-badge.committers.top/saudi_arabia_private/Tabisharaza)
 
 
 Hi there, I'm Tabish Ayub Raza 👋
