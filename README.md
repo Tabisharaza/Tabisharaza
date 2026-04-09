@@ -1,25 +1,37 @@
-[![committers.top badge](https://user-badge.committers.top/saudi_arabia_private/Tabisharaza.svg)](https://user-badge.committers.top/saudi_arabia_private/Tabisharaza)
+<h1 align="center">Hi there, I'm Tabish Ayub Raza 👋</h1>
+<p align="center">
+  Full Stack Developer | MERN + TypeScript | DevOps | Web3
+</p>
 
+## About Me
+I’m a results-driven Full Stack Developer with strong experience building scalable web applications, backend services, and blockchain-based solutions.  
+I focus on clean architecture, Test-Driven Development, and delivering production-ready software with strong reliability and security.
 
-Hi there, I'm Tabish Ayub Raza 👋
+I work across the full lifecycle: planning, development, testing, deployment, and monitoring.
 
-About Me :sunglasses:
+## Core Strengths
+- Full-Stack Development (MERN, TypeScript, REST APIs)
+- Backend Engineering (Node.js, Express/NestJS-style architectures)
+- Frontend Development (React.js, Hooks, UI/UX-focused interfaces)
+- Blockchain Development (Solidity, Smart Contracts, NFTs, web3.js)
+- DevOps & Cloud (Linux, Nginx, PM2, CI/CD, AWS, GCP)
+- Quality Engineering (TDD, ESLint, Prettier, Unit Testing, Code Review)
 
-I am a skilled and experienced Full Stack Developer with expertise in Test Driven Development, Full-Stack Development, Smart Contracts, and Non-Fungible Tokens (NFTs). I have a strong knowledge of MERN Stack, TypeScript, and Solidity, and experience in DevOps, Linux, Continuous Integration and Continuous Delivery (CI/CD), and AWS. I am a proactive problem solver with excellent communication skills and a commitment to delivering high-quality work.
+## Tech Stack
+**Languages:** JavaScript, TypeScript, Solidity, HTML, CSS  
+**Frontend:** React.js, React Hooks  
+**Backend:** Node.js, REST APIs, Microservices  
+**Database:** MongoDB, SQL  
+**DevOps/Infra:** Linux, Debian, Nginx, PM2, Docker, Kubernetes, CI/CD  
+**Cloud:** AWS, GCP  
+**Workflow:** GitHub, Jira, Trello, Scrum/Agile
 
-💻 Test Driven Development 🌐 Full-Stack Development 🚨 ESLint ⚛️ React Hooks 💄 Prettier 🔧 DevOps 🐧 Linux 🐳 Debian 🌐 Nginx 🐙 GitHub 🚀 Continuous Integration and Continuous Delivery (CI/CD) 👨‍💻 Pm2 ☁️ Amazon Web Services (AWS) 🛠️ MERN Stack 🍃 MongoDB 🔢 TypeScript 🚀 REST APIs 🟢 Node.js ⚛️ React.js 🎨 Front-End Development 💎 Non-Fungible Tokens (NFTs) 💼 Smart Contracts 🆚 Microsoft Visual Studio Code 🌐 web3.js 🔐 Solidity ⏰ Cron 📋 Scrum - Trello - JIRA ☁️ Google Cloud Platform (GCP) 🌐 HTML 🎨 Cascading Style Sheets (CSS) 📜 JavaScript 💻 User interface UI 📝 Microsoft Office 👨‍💻 Software Development 👨‍💻 Programming 🧬 Object-Oriented Programming (OOP) 📊 Software Development Life Cycle (SDLC) 📈 Agile Methodology 📉 Project Management 📊 Data Structures and Algorithms 🧮 Database Design and Management 🌐 Web Application Security 🔑 Cryptography 📱 Mobile App Development 📦 Package Management 🧪 A/B Testing 📊 Analytics and Metrics 🧹 Code Optimization 🕹️ Game Development 🧐 User Experience (UX) Design 🌐 Web Accessibility 🚧 Continuous Improvement 🚨 Incident Management 💬 Team Communication 🤝 Collaboration and teamwork 📡 Networking and Protocols 🚀 Deployment and Scaling 🔍 Debugging and Troubleshooting 🧹 Code Review 📚 Documentation and Technical Writing 🔍 Unit Testing 🌐 Microservices Architecture 🎭 Behavior-Driven Development (BDD) 🧬 Functional Programming 🌐 Websockets 🔑 OAuth and OpenID Connect 📈 Data Visualization 🎭 Test Automation 🧪 Load Testing 👩‍💻 Pair Programming 📝 Agile Documentation 👨‍💻 Code Refactoring 🚀 Serverless Architecture 🛡️ Cross-Site Scripting (XSS) Prevention 📈 Business Intelligence 🔑 Key Management 🧮 Statistical Analysis 🧬 Genetic Algorithms 🚀 Container Orchestration 📚 Knowledge Management 🤖 Artificial Intelligence/Machine Learning 🔒 Cybersecurity 🔗 Blockchain consensus algorithms 🎛️ Kubernetes 🐒 Apache Kafka 🎯 GraphQL 🤖 Machine Learning Operations (MLOps) 💻 Micro Frontends 🌩️ Serverless Computing 🗣️ Natural Language Processing (NLP) 📊 Big Data Analytics 🌐 Internet of Things (IoT) 👓 Augmented Reality/Virtual Reality (AR/VR) 🌐 Edge Computing ☁️ Cloud-Native Application Development 🤖 Chatbots/Voicebots 🧪 Data Science 👥 User-Centered Design ⛏️ Data Mining 💻 Digital Marketing ☁️ Cloud Computing 🧠 Deep Learning 💼 Business Analysis 💰 Financial Analysis 🚀 Entrepreneurship 💰 Technical Sales
+## What I Care About
+- Performance and scalability
+- Security-first engineering
+- Clean, maintainable code
+- Collaboration and clear communication
+- Continuous improvement and high delivery standards
 
-<!--
-**Tabisharaza/Tabisharaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let’s Connect
+I’m open to collaborating on impactful products in Web, Cloud, and Web3.
